@@ -39,8 +39,8 @@ var annotated_dup =
       ] ],
       [ "Bitset", "d9/dae/classdata__structures_1_1_bitset.html", "d9/dae/classdata__structures_1_1_bitset" ],
       [ "BloomFilter", "dc/dd4/classdata__structures_1_1_bloom_filter.html", "dc/dd4/classdata__structures_1_1_bloom_filter" ],
-      [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
       [ "SegmentTree", "dd/d95/classdata__structures_1_1_segment_tree.html", "dd/d95/classdata__structures_1_1_segment_tree" ],
+      [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
       [ "Stack", "d2/dc8/classdata__structures_1_1_stack.html", "d2/dc8/classdata__structures_1_1_stack" ],
       [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
@@ -58,8 +58,8 @@ var annotated_dup =
         [ "Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ]
       ] ],
       [ "jarvis", null, [
-        [ "Convexhull", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull" ],
-        [ "Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ]
+        [ "Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
+        [ "Convexhull", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull" ]
       ] ]
     ] ],
     [ "graph", "df/dce/namespacegraph.html", [
@@ -71,8 +71,8 @@ var annotated_dup =
       ] ],
       [ "Graph", "dc/d61/classgraph_1_1_graph.html", "dc/d61/classgraph_1_1_graph" ],
       [ "HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", "d8/d69/classgraph_1_1_h_k_graph" ],
-      [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
-      [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ]
+      [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ],
+      [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ]
     ] ],
     [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", [
       [ "dijkstra", "d2/d2f/namespacegreedy__algorithms_1_1dijkstra.html", [
@@ -91,8 +91,8 @@ var annotated_dup =
     ] ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", [
       [ "aystar_search", null, [
-        [ "AyStarSearch", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search" ],
-        [ "EightPuzzle", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle" ]
+        [ "EightPuzzle", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle" ],
+        [ "AyStarSearch", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search" ]
       ] ],
       [ "k_nearest_neighbors", null, [
         [ "Knn", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn.html", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn" ]
@@ -112,39 +112,36 @@ var annotated_dup =
     ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", [
       [ "circular_linked_list", null, [
-        [ "CircularLinkedList", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list.html", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list" ],
-        [ "Node", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node" ]
+        [ "Node", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node" ],
+        [ "CircularLinkedList", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list.html", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list" ]
       ] ],
       [ "inorder_traversal_of_bst", null, [
         [ "Node", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node.html", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node" ]
       ] ],
       [ "reverse_binary_tree", null, [
-        [ "BinaryTree", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree" ],
-        [ "Node", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node" ]
+        [ "Node", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node" ],
+        [ "BinaryTree", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree" ]
       ] ],
       [ "trie_operations", null, [
         [ "Tnode", "d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode.html", "d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode" ]
       ] ]
     ] ],
     [ "others", "d0/d6f/namespaceothers.html", [
+      [ "iterative_tree_traversals", null, [
+        [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ],
+        [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ]
+      ] ],
       [ "Cache", "db/dde/namespaceothers_1_1_cache.html", [
         [ "D_Node", "de/d21/classothers_1_1_cache_1_1_d___node.html", "de/d21/classothers_1_1_cache_1_1_d___node" ],
         [ "LFUCache", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache.html", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache" ],
         [ "LRUCache", "d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html", "d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache" ]
       ] ],
-      [ "iterative_tree_traversals", null, [
-        [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ],
-        [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ]
-      ] ],
       [ "lru_cache", null, [
         [ "LRUCache", "d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html", "d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache" ]
       ] ],
-      [ "postfix_expression", null, [
-        [ "Stack", "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html", "d5/d8a/classothers_1_1postfix__expression_1_1_stack" ]
-      ] ],
       [ "recursive_tree_traversals", null, [
-        [ "BT", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t" ],
-        [ "Node", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node.html", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node" ]
+        [ "Node", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node.html", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node" ],
+        [ "BT", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t" ]
       ] ]
     ] ],
     [ "probability", "d4/ded/namespaceprobability.html", [
@@ -160,9 +157,9 @@ var annotated_dup =
     ] ],
     [ "range_queries", "dd/d69/namespacerange__queries.html", [
       [ "heavy_light_decomposition", null, [
-        [ "HLD", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d" ],
+        [ "Tree", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree.html", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree" ],
         [ "SG", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g" ],
-        [ "Tree", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree.html", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree" ]
+        [ "HLD", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d" ]
       ] ],
       [ "fenwick_tree", "de/d0d/classrange__queries_1_1fenwick__tree.html", "de/d0d/classrange__queries_1_1fenwick__tree" ],
       [ "perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", "d8/d28/classrange__queries_1_1per_seg_tree" ]
@@ -177,12 +174,12 @@ var annotated_dup =
       [ "stats_computer2", "d8/dab/classstatistics_1_1stats__computer2.html", "d8/dab/classstatistics_1_1stats__computer2" ]
     ] ],
     [ "std", null, [
-      [ "is_arithmetic< uint128_t >", "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html", null ],
-      [ "is_arithmetic< uint256_t >", "dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html", null ],
-      [ "is_integral< uint128_t >", "d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html", null ],
-      [ "is_integral< uint256_t >", "d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html", null ],
-      [ "is_unsigned< uint128_t >", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
-      [ "is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
+      [ "is_integral&lt; uint128_t &gt;", "d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html", null ],
+      [ "is_arithmetic&lt; uint128_t &gt;", "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html", null ],
+      [ "is_unsigned&lt; uint128_t &gt;", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
+      [ "is_integral&lt; uint256_t &gt;", "d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html", null ],
+      [ "is_arithmetic&lt; uint256_t &gt;", "dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html", null ],
+      [ "is_unsigned&lt; uint256_t &gt;", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
     ] ],
     [ "strings", "df/dcb/namespacestrings.html", [
       [ "boyer_moore", "d0/dbc/namespacestrings_1_1boyer__moore.html", [
@@ -217,6 +214,7 @@ var annotated_dup =
     [ "list", "d8/d10/structlist.html", "d8/d10/structlist" ],
     [ "ListNode", "d7/da4/struct_list_node.html", "d7/da4/struct_list_node" ],
     [ "Longest_Substring", "da/d21/class_longest___substring.html", "da/d21/class_longest___substring" ],
+    [ "MemorisedFactorial", "da/d15/class_memorised_factorial.html", "da/d15/class_memorised_factorial" ],
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
